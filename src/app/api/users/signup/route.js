@@ -5,7 +5,6 @@ import bcryptjs from "bcryptjs";
 
 // Connect to DB
 connect();
-
 export async function POST(request) {
   try {
     const reqBody = await request.json();
@@ -18,7 +17,6 @@ export async function POST(request) {
         { status: 400 }
       );
     }
-
     // Check if user already exists
     const existingUser = await User.findOne({ email });
     if (existingUser) {

@@ -14,6 +14,7 @@ export async function GET(req, context) {
       return NextResponse.json({ error: "User not found" }, { status: 404 });
     }
 
+    // Convert Mongoose document to plain object
     return NextResponse.json({ data: user }, { status: 200 });
   } catch (error) {
     console.error("Error fetching user:", error);

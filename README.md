@@ -47,23 +47,7 @@ The app is deployed and accessible here:
 
 > You can easily deploy to [Vercel](https://vercel.com/) with seamless integration for Next.js.
 
-## 📁 Folder Structure
 
-```
-.
-├── app/
-│   └── api/
-│       └── users/ ➜ API routes for user actions
-├── models/
-│   └── userModel.js ➜ Mongoose schema
-├── utils/
-│   └── jwtUtils.js, dbConfig.js
-├── components/
-│   └── UI components (e.g., forms, inputs)
-├── public/
-├── styles/
-├── .env.local
-```
 
 ## ✅ To-Do
 

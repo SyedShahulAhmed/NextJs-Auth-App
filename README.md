@@ -51,9 +51,9 @@ The app is deployed and accessible here:
 
 ## ✅ To-Do
 
-* [ ] Add forgot password/reset flow 🔄
-* [ ] Role-based access control 🔐
-* [ ] Dark mode 🌙 toggle
+* Add forgot password/reset flow 🔄
+* Role-based access control 🔐
+* Dark mode 🌙 toggle
 
 ## 🙌 Contributing
 

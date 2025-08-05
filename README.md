@@ -62,7 +62,6 @@ npm run dev
 
 * 🔁 Add forgot password/reset flow
 * 👮 Role-based access control
-* 🌙 Dark mode toggle
 
 ---
 

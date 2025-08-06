@@ -56,12 +56,6 @@ npm run dev
 🧩 Hosted on **Vercel** — fast, reliable, and built for Next.js.
 ✨ Click the link to test the login and protected dashboard experience.
 
----
-
-## ✅ To-Do
-
-* 🔁 Add forgot password/reset flow
-* 👮 Role-based access control
 
 ---
 
